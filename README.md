@@ -13,3 +13,17 @@ Each member will submit his code to his own directory, thus there are five direc
 
 Sentdex home page:
 https://www.youtube.com/user/sentdex
+
+1. Install Anaconda
+    https://www.continuum.io/downloads
+
+2. Install python / matplotlib / scipy / scikit-learn
+    >conda create --name sammamish
+    >conda install python=3.5
+    >conda install matplotlib
+    >conda install scipy
+    >conda install scikit-learn
+
+3. Get code
+    >git clone https://github.com/GroupStudyInSammamishArea/pythonnltktutorial.git
+
