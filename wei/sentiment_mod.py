@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 ##
 ## SAVE ME as sentiment_mod.py
 ## 

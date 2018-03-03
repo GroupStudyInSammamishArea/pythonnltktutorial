@@ -1,2 +1,8 @@
 # pickle files
 *.pickle
+
+# twitter API credentials
+twitterapi_cred.py
+
+# tweets output file
+twitter-out.txt
